@@ -77,7 +77,7 @@ chmod +x ~/.config/sketchybar/items/*.sh
 ### 5. Start SketchyBar
 ```bash
 # Start SketchyBar
-sketchybar --update
+brew services start sketchybar
 ```
 
 

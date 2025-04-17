@@ -6,6 +6,20 @@
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status">
 </div>
 
+## 📸 Preview
+
+<div align="center">
+  <img src="SS2.png" alt="Full SketchyBar Preview" width="800">
+  <br>
+  <em>Full bar preview showing all components</em>
+</div>
+
+<div align="center">
+  <img src="SS4.png" alt="Left Side Components" width="400">
+  <img src="SS1.png" alt="Right Side Components" width="400">
+  <br>
+  <em>Left and right side components in detail</em>
+</div>
 
 
 ## ✨ Features

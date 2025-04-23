@@ -1,10 +1,11 @@
 #!/bin/bash
 
-sketchybar --add item battery right \
-           --set battery background.color=$ACCENT_COLOR \
-           --set battery label.color=$BAR_COLOR \
-           --set battery icon.color=$BAR_COLOR \
-           --set battery update_freq=120 \
+#Battery percentage and time remaining
+sketchybar --add item battery_item right \
+           --set battery_item background.color=$ACCENT_COLOR \
+           --set battery_item label.color=$PRODUCTIVE_APP_TEXT_COLOR \
+           --set battery_item icon.color=$PRODUCTIVE_APP_TEXT_COLOR \
+           --set battery_item update_freq=120 \
                          script="$PLUGIN_DIR/battery.sh" \
-           --subscribe battery system_woke power_source_change
+           --subscribe battery_item system_woke power_source_change
            

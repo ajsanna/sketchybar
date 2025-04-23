@@ -60,12 +60,15 @@ sketchybar --default "${default[@]}"
 
 
   # -- Left Side Items --
-source $ITEM_DIR/messages.sh
-source $ITEM_DIR/cursor.sh
-source $ITEM_DIR/terminal.sh
-source $ITEM_DIR/chrome.sh
-source $ITEM_DIR/front_app.sh
-source $ITEM_DIR/spaces.sh
+source $ITEM_DIR/canvas.sh # Canvas app
+source $ITEM_DIR/docs.sh # Docs app
+source $ITEM_DIR/gpt.sh # GPT app
+source $ITEM_DIR/mail.sh # Mail app
+source $ITEM_DIR/messages.sh # Messages app 
+source $ITEM_DIR/paramount.sh # Paramount app
+source $ITEM_DIR/youtube.sh # Youtube app
+source $ITEM_DIR/max.sh # Max app
+
 
 
 
@@ -74,12 +77,10 @@ source $ITEM_DIR/media.sh
 
 
 # --- Right Side Items ---
-source $ITEM_DIR/temperature.sh
-source $ITEM_DIR/gpu.sh
-source $ITEM_DIR/cpu.sh
-source $ITEM_DIR/calendar.sh
-source $ITEM_DIR/volume.sh
-source $ITEM_DIR/battery.sh
+source $ITEM_DIR/calendar.sh # Calendar app
+source $ITEM_DIR/volume.sh # Volume app
+source $ITEM_DIR/battery.sh # Time remaining app
+#source $ITEM_DIR/battery.sh # Battery app
 
 
 

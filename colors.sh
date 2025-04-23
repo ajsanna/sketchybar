@@ -3,11 +3,13 @@
 export WHITE=0xffd2b48c  # Tan color for text
 
 # -- Green Scheme --
-export BAR_COLOR=0xff1a2f1a    # Dark green background
-export ITEM_BG_COLOR=0xff3a5f7d # ocean blue for apps 
-export ACCENT_COLOR=0xffd2b48c  # Tan color for accents
-export SYSTEM_MONITORING_COLOR=0xfff4c6c3 # pastel pink for system monitoring
-export SYSTEM_STATS=0xff6c1f2b # dark red for system stats
+export BAR_COLOR=0xffb39aca    # Light purple background
+export ITEM_BG_COLOR=0xffe7dfb8 # Cream color for apps on left side
+export ACCENT_COLOR=0xff59548e  # Dark blue for left text 
+# dark blue: 59548e, light pink: f4c6c3
+export PRODUCTIVE_APP_BGCOLOR=0xff3C4A64 # Dark blue for productive apps
+export PRODUCTIVE_APP_TEXT_COLOR=0xffe7dfb8 # Cream color for productive apps
+
 # -- Teal Scheme --
 # export BAR_COLOR=0xff001f30
 # export ITEM_BG_COLOR=0xff003547

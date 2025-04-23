@@ -1,4 +1,4 @@
-# 🎨 My personal custom sketchybar I use on my macbook pro
+# 🎨 Custom MacOS Control Bar Built For Kayla Snyder 
 
 <div align="center">
   <img src="https://img.shields.io/badge/macOS-Sonoma-blue?style=flat-square&logo=apple" alt="macOS Version">
@@ -6,31 +6,13 @@
   <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" alt="Status">
 </div>
 
-## 📸 Preview
-
-<div align="center">
-  <img src="SS2.png" alt="Full SketchyBar Preview" width="800">
-  <br>
-  <em>Full bar preview showing all components</em>
-</div>
-
-<div align="center">
-  <img src="SS4.png" alt="Left Side Components" width="400">
-  <img src="SS1.png" alt="Right Side Components" width="400">
-  <br>
-  <em>Left and right side components in detail</em>
-</div>
-
 
 ## ✨ Features
 
-- 📊 System monitoring (CPU, GPU, Temperature)
-- 🚀 Application launchers
-- 🖥️ Workspace management
-- 🎵 Media controls
-- 🔋 Battery status
-- 📅 Calendar integration
-- 🔊 Volume controls
+- 📊 General System monitoring (Battery, Volume, Date)
+- 🚀 Production Application launchers (Canvas, Docs, GPT, Mail)
+- 🖥️ Entertainment App Launchers (Paramount, Youtube, MAX)
+- 🎵 Media Display in center: Song, Artist 
 - 🎨 Custom color schemes
 
 ## 📋 Prerequisites

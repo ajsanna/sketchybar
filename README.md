@@ -1,4 +1,4 @@
-# 🎨 Custom MacOS Control Bar Built For Kayla Snyder 
+# 🎨 Custom MacOS Control Bar Via SketchyBar
 
 <div align="center">
   <img src="https://img.shields.io/badge/macOS-Sonoma-blue?style=flat-square&logo=apple" alt="macOS Version">

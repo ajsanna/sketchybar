@@ -16,11 +16,10 @@ brew tap FelixKratz/formulae
 brew install sketchybar
 
 # 3. Install dependencies
-brew install osx-cpu-temp powermetrics
+brew install osx-cpu-temp
 brew install --cask shottr
 
 # 4. Install Nerd Font
-brew tap homebrew/cask-fonts
 brew install --cask font-hack-nerd-font
 
 # 5. Clone config
